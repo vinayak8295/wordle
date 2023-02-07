@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.437ef974.css",
+    "main.js": "/static/js/main.88f0de3f.js",
+    "static/media/valid-wordle-words.txt": "/static/media/valid-wordle-words.007810685a299d5cb9d3.txt",
+    "index.html": "/index.html",
+    "main.437ef974.css.map": "/static/css/main.437ef974.css.map",
+    "main.88f0de3f.js.map": "/static/js/main.88f0de3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.437ef974.css",
+    "static/js/main.88f0de3f.js"
+  ]
+}
